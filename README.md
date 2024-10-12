@@ -2,9 +2,9 @@
 
 Lucy Chatbot Companion is a sleek, customizable AI chatbot interface built with Streamlit and OpenAI's GPT models. It offers a dynamic and modern user experience with enhanced CSS styling, animations, and intuitive API management.
 
-## Demo
+## [Demo](https://llmchatbotlucy.streamlit.app/)
 
-![Lucy Chatbot Demo](https://media.giphy.com/media/3o7aD6syaCDMBP4sTS/giphy.gif) 
+You can explore the live demo of Lucy Chatbot on Streamlit by clicking [here](https://llmchatbotlucy.streamlit.app/).
 
 ## Features
 
